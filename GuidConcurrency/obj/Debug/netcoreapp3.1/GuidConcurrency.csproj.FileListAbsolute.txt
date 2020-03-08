@@ -1,0 +1,11 @@
+C:\Users\Austin\source\repos\GuidConcurrency\GuidConcurrency\GuidConcurrency\obj\Debug\netcoreapp3.1\GuidConcurrency.csprojAssemblyReference.cache
+C:\Users\Austin\source\repos\GuidConcurrency\GuidConcurrency\GuidConcurrency\obj\Debug\netcoreapp3.1\GuidConcurrency.AssemblyInfoInputs.cache
+C:\Users\Austin\source\repos\GuidConcurrency\GuidConcurrency\GuidConcurrency\obj\Debug\netcoreapp3.1\GuidConcurrency.AssemblyInfo.cs
+C:\Users\Austin\source\repos\GuidConcurrency\GuidConcurrency\GuidConcurrency\bin\Debug\netcoreapp3.1\GuidConcurrency.exe
+C:\Users\Austin\source\repos\GuidConcurrency\GuidConcurrency\GuidConcurrency\bin\Debug\netcoreapp3.1\GuidConcurrency.deps.json
+C:\Users\Austin\source\repos\GuidConcurrency\GuidConcurrency\GuidConcurrency\bin\Debug\netcoreapp3.1\GuidConcurrency.runtimeconfig.json
+C:\Users\Austin\source\repos\GuidConcurrency\GuidConcurrency\GuidConcurrency\bin\Debug\netcoreapp3.1\GuidConcurrency.runtimeconfig.dev.json
+C:\Users\Austin\source\repos\GuidConcurrency\GuidConcurrency\GuidConcurrency\bin\Debug\netcoreapp3.1\GuidConcurrency.dll
+C:\Users\Austin\source\repos\GuidConcurrency\GuidConcurrency\GuidConcurrency\bin\Debug\netcoreapp3.1\GuidConcurrency.pdb
+C:\Users\Austin\source\repos\GuidConcurrency\GuidConcurrency\GuidConcurrency\obj\Debug\netcoreapp3.1\GuidConcurrency.dll
+C:\Users\Austin\source\repos\GuidConcurrency\GuidConcurrency\GuidConcurrency\obj\Debug\netcoreapp3.1\GuidConcurrency.pdb
